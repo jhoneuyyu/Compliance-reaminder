@@ -1,0 +1,20 @@
+{
+  "name": "compliance-reminder-backend",
+  "version": "1.0.0",
+  "description": "Growth Partners Personalisation Tool - Backend API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "fabric": "^5.3.0",
+    "mongoose": "^8.4.1",
+    "node-cron": "^4.5.0",
+    "nodemailer": "^9.0.3",
+    "sharp": "^0.35.3"
+  },
+  "private": true
+}
