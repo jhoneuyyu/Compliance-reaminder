@@ -4,7 +4,8 @@
   "description": "Growth Partners Personalisation Tool - Backend API",
   "main": "server.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node server.js",
+    "dev": "vite"
   },
   "dependencies": {
     "cors": "^2.8.5",
